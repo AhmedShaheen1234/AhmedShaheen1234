@@ -12,9 +12,13 @@
 </p> 
 
 🏢 I'm a third-year Artificial Intelligence student currently enrolled in my program.
+
 👨‍💻 Constantly diving into new technologies and methodologies to enhance my AI skills.
+
 💬 Feel free to discuss my experiences with Python, Java, C++, and C#, or anything concerning AI and machine learning.
+
 ⚡ Fun Fact: I am a fan of calm and work in silence
+
 👨‍💻 Visit my portfolio at https://yousef-dergham.netlify.app/ to explore some of the projects I've been involved in.
 
 
@@ -40,7 +44,7 @@
 
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefdergham&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedShaheen&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
 <a href="https://komarev.com/ghpvc/?username=AhmedShaheen&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=AhmedShaheen&style=for-the-badge">
