@@ -19,7 +19,7 @@
 
 ⚡ Fun Fact: I am a fan of calm and work in silence
 
-👨‍💻 Visit my portfolio at https://yousef-dergham.netlify.app/ to explore some of the projects I've been involved in.
+👨‍💻 Visit my portfolio at https://www.linkedin.com/in/ahmed-shaheen-90a472284/ to see more information about me.
 
 
 ### Connect with Me :
