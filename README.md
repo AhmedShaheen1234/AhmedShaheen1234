@@ -11,7 +11,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Artificial%20Intelligence%20student;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-🏢 I'm a third-year Artificial Intelligence student currently enrolled in my program.
+🏢 Artificial Intelligence Engineer.
 
 👨‍💻 Constantly diving into new technologies and methodologies to enhance my AI skills.
 
